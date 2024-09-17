@@ -47,7 +47,7 @@
     "fastify-static": "^2.6.0",
     "fastify-swagger": "^2.5.0",
     "fastify-url-data": "^2.4.0",
-    "sharp": "^0.25.1",
+    "sharp": "^0.30.7",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
